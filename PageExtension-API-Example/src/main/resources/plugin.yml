@@ -1,0 +1,7 @@
+name: Example-PageExtension-API-Plugin
+author: AuroraLS3
+main: net.playeranalytics.example.plugin.PageExtensionApiPlugin
+version: 1.0
+api-version: 1.13
+softdepend:
+  - Plan
